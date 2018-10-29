@@ -1,17 +1,12 @@
 CACHE MANIFEST
 
-
 CACHE:
 favicon.ico
 favicon_unread.ico
 service_worker.js
-img/Manytabs.png
-img/Manytabs_2x.png
-img/Telegram.png
-img/Telegram.svg
-img/Telegram72.png
-img/Telegram72_2x.png
-img/Telegram_2x.png
+css/app.css
+css/desktop.css
+css/mobile.css
 img/blank.gif
 img/emojisprite_0.png
 img/emojisprite_1.png
@@ -21,10 +16,14 @@ img/emojisprite_4.png
 img/iphone_home120.png
 img/iphone_startup.png
 img/logo_share.png
+img/Manytabs.png
+img/Manytabs_2x.png
 img/sound_a.mp3
-css/app.css
-css/desktop.css
-css/mobile.css
+img/Telegram.png
+img/Telegram.svg
+img/Telegram72.png
+img/Telegram72_2x.png
+img/Telegram_2x.png
 js/app.js
 nacl/mtproto_crypto.nmf
 nacl/mtproto_crypto.pexe
@@ -33,6 +32,7 @@ img/icons/AboutLogos.png
 img/icons/AboutLogos_2x.png
 img/icons/General.png
 img/icons/General_2x.png
+img/icons/icon.svg
 img/icons/IconsetSmiles.png
 img/icons/IconsetSmiles_2x.png
 img/icons/IconsetW.png
@@ -45,7 +45,6 @@ img/icons/PhotoIcons.png
 img/icons/PhotoIcons_2x.png
 img/icons/ProfileIcons.png
 img/icons/ProfileIcons_2x.png
-img/icons/icon.svg
 img/placeholders/DialogListAvatarSystem@2x.png
 img/placeholders/Fave.png
 img/placeholders/GroupAvatar1@2x.png
@@ -89,10 +88,9 @@ vendor/angular/i18n/angular-locale_nl-nl.js
 vendor/angular/i18n/angular-locale_pt-br.js
 vendor/angular/i18n/angular-locale_ru-ru.js
 
-
 NETWORK:
 http://*
 https://*
 *
 
-# hash: d7899eff121a99648004fb5ce57cfd2b765c52d56e1bbe271e62c5d8342394ef
+# hash: d72a953aff35290212851a1e24e60ebccf1ff25f452b31af59e16a79d520e92a
